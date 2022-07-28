@@ -1,7 +1,7 @@
 # SkillRack-Hack
 
-In this Project, we will be creating a python script which can 
-copy,paste code from internet in skillrack.
+In this Project, we will be creating a Python script 
+which can copy,paste code from internet in skillrack.
 
 Modules Requires:
 
